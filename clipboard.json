@@ -1,0 +1,1 @@
+{"python": "", "test": "SAVED_DATA = \"clipboard.json\"\r\ndef save_items(filepath, data):\r\n    with open(filepath, \"w\") as f:\r\n        json.dump(data, f)", "k": "key=input(\"Enter a key: \")\r\n        value=input(\"enter a value: \")\r\n        name[i:k]=name[key:value]", "wanda": "", "ron": "", "black": ""}
